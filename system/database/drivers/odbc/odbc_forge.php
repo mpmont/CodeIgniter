@@ -31,7 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *
  * @category	Database
  * @author		EllisLab Dev Team
- * @link		http://codeigniter.com/database/
+ * @link		https://ellislab.com/codeigniter/database/
  */
 class CI_DB_odbc_forge extends CI_DB_forge {
 

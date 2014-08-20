@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @subpackage	Libraries
  * @category	UnitTesting
  * @author		EllisLab Dev Team
- * @link		http://codeigniter.com/user_guide/libraries/unit_testing.html
+ * @link		https://ellislab.com/codeigniter/user_guide/libraries/unit_testing.html
  */
 class CI_Unit_test {
 

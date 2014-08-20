@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @subpackage	Libraries
  * @category	Uploads
  * @author		EllisLab Dev Team
- * @link		http://codeigniter.com/user_guide/libraries/file_uploading.html
+ * @link		https://ellislab.com/codeigniter/user_guide/libraries/file_uploading.html
  */
 class CI_Upload {
 
@@ -327,11 +327,11 @@ class CI_Upload {
 					$this->$key = $defaults[$key];
 				}
 			}
-		
+
 		}
 		else
 		{
-			
+
 			foreach ($config as $key => &$value)
 			{
 				if ($key[0] !== '_' && $reflection->hasProperty($key))
@@ -346,7 +346,7 @@ class CI_Upload {
 					}
 				}
 			}
-			
+
 		}
 
 		// if a file_name was provided in the config, use it instead of the user input

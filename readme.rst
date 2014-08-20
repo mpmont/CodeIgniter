@@ -16,7 +16,7 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
-<http://codeigniter.com/downloads/>`_ page.
+<https://ellislab.com/codeigniter>`_ page.
 
 **************************
 Changelog and New Features
